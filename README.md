@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Md Manik Hossain
-<h3 align="center">Full Stack Web Developer</h3>
+<h3>Full Stack Web Developer</h3>
 
 ![](https://scontent.fdac157-1.fna.fbcdn.net/v/t39.30808-6/335391102_695254302380657_2674482019581223647_n.jpg?stp=dst-jpg_p526x296&_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_ohc=AAeRsuSDq3QAX-tKkFm&_nc_ht=scontent.fdac157-1.fna&oh=00_AfAng6D1lhWrK07auo2Wv7KUWbd-z298_jdmHryL1szZ-Q&oe=6418EE11)
 
