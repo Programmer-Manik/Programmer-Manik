@@ -76,4 +76,4 @@
 
 
 
-<img align='center'  height="70" alt="Thanks" width="100%" src="/assets/Thanks.svg"/> 
+<img align='center'  height="70" alt="Thanks" width="100%" src="file:///C:/ReactFileAll/Programmer-Manik/assets/Thanks.svg"/> 
