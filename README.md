@@ -70,7 +70,7 @@
 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Programmer-Manik&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" alt="devManik" />
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Programmer-Manik&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" alt="devManik" />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Programmer-Manik&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" alt="Manik Hossain" />
 
