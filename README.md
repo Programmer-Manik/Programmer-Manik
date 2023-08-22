@@ -75,5 +75,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Programmer-Manik&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" alt="Manik Hossain" /></p>
 
 
-
-<img align='center'  height="70" alt="Thanks" width="100%" src="file:///C:/ReactFileAll/Programmer-Manik/assets/Thanks.svg"/> 
