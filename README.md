@@ -1,4 +1,4 @@
-![Banner](/assets/Thanks.svg)
+![Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBr2z9vu_5YFhHqmICWaM6gttj0iPJGcdslCIVucsHNA&s)
 
 <!-- welcome message -->
 <h2>Assalamu Alaikum, I am Manik Hossain <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </h2>
