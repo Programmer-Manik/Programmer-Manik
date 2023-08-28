@@ -4,8 +4,6 @@
 
  <h2>Assalamu Alaikum, I am Manik Hossain <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </h2>
 
-/*![Banner](https://media.tenor.com/qV9QZcasa-QAAAAd/welcome.gif) */
-
 ## I am a JavaScript Lover <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 
