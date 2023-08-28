@@ -1,7 +1,6 @@
 
- 
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Programmer-Manik&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" alt="Manik Hossain" />
-
+<div> &npsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Programmer-Manik&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" alt="Manik Hossain" />
+</div>
  <h2>Assalamu Alaikum, I am Manik Hossain <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </h2>
 
 ## I am a JavaScript Lover <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
