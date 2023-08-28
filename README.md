@@ -1,10 +1,10 @@
 
  
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Programmer-Manik&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" alt="Manik Hossain" />
- &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Programmer-Manik&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" alt="devManik" />
+
  <h2>Assalamu Alaikum, I am Manik Hossain <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </h2>
 
-
+/*![Banner](https://media.tenor.com/qV9QZcasa-QAAAAd/welcome.gif) */
 
 ## I am a JavaScript Lover <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
@@ -68,7 +68,7 @@
 
 <!-- This is repo start dasbord  -->
 
-
+ &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Programmer-Manik&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" alt="devManik" />
 
 
 
