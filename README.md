@@ -16,10 +16,6 @@
   <a href="https://github.com/Programmer-Manik" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Programmer-Manik?label=Github&style=flat">
   </a>
-  <a href="https://github.com/devsahinur" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=devsahinur&label=Profile%20views&color=0e75b6&style=flat" alt="devsahinur" />
-  </a> 
-
 ## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Connect with Me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100082862521278/)
