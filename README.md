@@ -16,7 +16,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/manik500282/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Programmer-Manik)
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdmanik1502083874@gmail.com)
-[![Stack Overflow](https://img.shields.io/badge/2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://stackoverflow.com/users/23338724/programmer-manik)
+[![Stack Overflow](https://img.shields.io/badge/user:23338724?&style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://stackoverflow.com/users/23338724/programmer-manik)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
