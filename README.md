@@ -1,8 +1,6 @@
 
- ![Banner](https://media.tenor.com/qV9QZcasa-QAAAAd/welcome.gif)
 
- <h3>Assalamu Alaikum, I am Manik Hossain <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </h3>
-
+<h3>Assalamu Alaikum, I am Manik Hossain <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </h3>
 ## I am a JavaScript Lover <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </br>
 
@@ -11,7 +9,6 @@
 - 🌱 I’m currently learning **What i Need** 
 - 🎯 2023 Goals: React Native, Web 3.0
 - ⚡ Fun Fact: I want to learn everything 🤣
-
 
 ## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Connect with Me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
 
