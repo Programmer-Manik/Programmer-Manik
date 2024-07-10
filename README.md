@@ -7,7 +7,7 @@
 - 🔭 These days I'm working on different kinds of projects!
 - ⚡ I just want learn more about code 
 - 🌱 I’m currently learning **What i Need** 
-- 🎯 2023 Goals: React Native, Web 3.0
+- 🎯 2025 Goals: React Native, Web 3.0
 - ⚡ Fun Fact: I want to learn everything 🤣
 
 ## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Connect with Me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
