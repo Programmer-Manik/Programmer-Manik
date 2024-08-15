@@ -4,14 +4,23 @@
 
 </br>
 
-- 🔭 These days I'm working on different kinds of projects!
-- ⚡ I just want learn more about code 
-- 🌱 I’m currently learning **What i Need** 
-- 🎯 2025 Goals: React Native, Web 3.0
+- 🔭 Focusing on FullStack (Frontend + Backend + DevOps).😎
+- 🌱 Trying to become an expert in Fullstack development ❤
+- 💻 I love exploring new tech stacks and building cool stuff.
+- 📰 Reading tech documentation whenever possible.
+- 🎯 2024 Goals: DevOps, AWS, Blockchain
 - ⚡ Fun Fact: I want to learn everything 🤣
+
+<a href="https://github.com/Programmer-Manik" target="_blank">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Programmer-Manik?label=Github&style=flat">
+  </a>
+  <a href="https://github.com/Programmer-Manik" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=Programmer-Manik&label=Profile%20views&color=0e75b6&style=flat" alt="Programmer-Manik" />
+  </a> 
 
 ## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Connect with Me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devmanik/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100082862521278/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/manik500282/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Programmer-Manik)
