@@ -90,8 +90,10 @@
  This is repo start dasbord 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Programmer-Manik&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" alt="devManik" />
+<span>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Programmer-Manik&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" alt="Manik Hossain" />
 <svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">
+</span>
 
 
 
