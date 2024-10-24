@@ -75,7 +75,6 @@
 ![Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) 
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 <br />
@@ -92,17 +91,13 @@
 
 
  This is repo start dasbord 
- <table style="border: none; border-collapse: collapse;">
-
+ <table ">
 <tr>
-  <td style="border: none;">
-
+  <td ">
   [![GitHub Streak](https://streak-stats.demolab.com?user=Programmer-Manik&theme=whatsapp-dark)](https://git.io/streak-stats)
-
   </td>
-
-  <td style="border: none;">
-    <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Programmer-Manik&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" alt="devManik" />
+  <td ">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Programmer-Manik&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" alt="devManik" />
   </td>
 </tr>
  </table>
