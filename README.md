@@ -92,8 +92,22 @@
 
 
  This is repo start dasbord 
+ <table style="border: none; border-collapse: collapse;">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Programmer-Manik&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" alt="devManik" />
+<tr>
+  <td style="border: none;">
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Programmer-Manik&theme=whatsapp-dark)](https://git.io/streak-stats)
+
+  </td>
+
+  <td style="border: none;">
+    <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Programmer-Manik&show_icons=true&theme=cobalt&title_color=3cb480&locale=en" alt="devManik" />
+  </td>
+</tr>
+ </table>
+
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Programmer-Manik&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact" alt="Manik Hossain" />
 <svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">
 
